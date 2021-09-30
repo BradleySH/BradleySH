@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BradleySH
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @Brad
 - 💞️ I’m looking to collaborate on Apps and any Web Development opportunities
 - 📫  reach me at bradley.s.horlander@gmail.com
 
