@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Brad
-- 💞️ I’m looking to collaborate on Apps and any Web Development opportunities
+- 👋 Hi, I’m Brad and I am a Software Engineer @ Optum
+- 💞️ Learning Rust along with some other work related coding.  
 - 📫  reach me at bradley.s.horlander@gmail.com
 
 <!---
