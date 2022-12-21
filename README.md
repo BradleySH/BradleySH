@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brad and I am a Software Engineer @ Optum
-- 💞️ Learning Rust along with some other work related coding.  
+- 💞️ Learning Golang and work related Code in C# and Angular 
 - 📫  reach me at bradley.s.horlander@gmail.com
 
 
