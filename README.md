@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brad and I am a Software Engineer @ Optum
-- 💞️ Learning Golang while doing AOC2024
+- 💞️ Practicing Leetcode
 - 📫  reach me at horlandb@pm.me
 
 
