@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Brad and I am a Software Engineer @ Optum
-- 🕯️Practicing Leetcode
 - 📫  reach me at horlandb@pm.me
 
 
