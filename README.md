@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Brad and I am a Software Engineer @ Optum
-- 📫  reach me at horlandb@pm.me
 
 
 [![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradleySH)](https://github.com/BradleySH/github-readme-stats)
